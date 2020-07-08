@@ -1,3 +1,13 @@
+# Escape the Code
+Welcome to the repo for the 202 Hackathon project `Escape the Code`!
+
+## Team
+| Avatar | Name | 
+|--------|------|
+| <img src="https://avatars2.githubusercontent.com/u/1314285?s=460&u=46fd83b38323c7de99dace65d061c236105394d6&v=" width="50" height="50"> | Sarah Guthals | 
+|  | Jenn Jinhong |
+|  | Cassie Brevieu |
+|  | Morgan Mitchell |
 
 # Contributing
 
