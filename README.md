@@ -8,6 +8,7 @@ Welcome to the repo for the 202 Hackathon project `Escape the Code`!
 |  | Jenn Jinhong |
 |  | Cassie Brevieu |
 |  | Morgan Mitchell |
+|  | Jayme Singleton |
 
 ## Project Outline
 ### Ultimate Goal (likely out of scope for hackathon, but important for the narrative)
