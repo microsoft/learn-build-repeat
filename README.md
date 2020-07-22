@@ -100,6 +100,7 @@ We would obviously want to be more creative and not just having them write code 
 - Unity
 - BabylonJS
 - Playfab
+- [Framer](https://www.framer.com/)
 
 ## Brainstorming Notes
 During our early July meeting we started discussing the desire to create an experience for more novice developers to learn new skills through a fun, collaborative experience. 
