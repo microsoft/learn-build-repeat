@@ -10,6 +10,23 @@ Welcome to the repo for the 202 Hackathon project `Escape the Code`!
 |  | Morgan Mitchell |
 |  | Jayme Singleton |
 
+## Three Sub-Teams
+### The Video
+- Narrative
+- What assets we need in the video
+- What we want to convey
+
+### The "Pretty" Prototype
+- Using Framer
+- Clickabale, but not functional
+- Used mostly for the video
+
+### The "Functional" Prototype
+- Unity
+- Something people can actually play
+- Not super pretty
+- Kind of functional (can be magical)
+
 ## Project Outline
 ### Ultimate Goal (likely out of scope for hackathon, but important for the narrative)
 The goal here is to create an end to end experience that starts and ends in Learn. You could imagine that you aren't allowed to sign up for an event unless you have completed 
