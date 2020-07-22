@@ -36,6 +36,20 @@ We could do something *very* simple to show this off for Hackathon.
 - A 2D image of the "room" gets shown and if their code worked then the "Room updates" (a new image is shown)
 - We only do one programming language
 - The rest is narrative in our video
+- Tips
+
+### Future Features
+ - Other themes
+ - Start with coding basics, could also have:
+   - Data Science (use machine learning to solve problems)
+   - Networking
+
+## Similar Games to Serve as Inspiration
+
+- [Battlesnake](https://play.battlesnake.com/)
+  - [Battlesnake GitHub Repos](https://github.com/battlesnakeofficial)
+  - [Battlesnake Docs](https://docs.battlesnake.com/)
+- [Azure Mystery Mansion](https://dev.to/azure/unraveling-the-azure-maya-mystery-and-building-a-world-4pp2)
 
 ## Game Themes and Coding Challenges 
 We thought about some themes, we were thinking maybe instead of "escape" we could *also* do "find all of the tacos".
