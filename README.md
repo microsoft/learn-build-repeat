@@ -114,6 +114,23 @@ Host.message(tacoCount);
 
 We would obviously want to be more creative and not just having them write code for no reason. We could have some APIs to make it easier to navigate the room and we could even have them do some actual calls to Azure (maybe they find a photo album and have to find how many images have dogs in them). 
 
+## Narrative Ideas
+
+Make the Tacos:
+- Collect Ingredients ()
+  - Like Scavenger Hunt 
+  - Check if they're good (is the tomato ripe using Cognitive Services)
+- Prepare Ingredients (Small programming concepts)
+  - Find the right tools 
+  - Prepare them in the right way
+- Assemble Ingredients
+  - Get an order (Unit Tests)
+- Platting -> CSS
+  - You need people to want this (COMMUNICATION - USABILITY)
+- Stretch
+  - Create Meals (side dishes)
+
+
 ## Project Tech
 - Unity
 - BabylonJS
