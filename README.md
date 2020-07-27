@@ -153,6 +153,7 @@ Make the Tacos:
 - BabylonJS
 - Playfab
 - [Framer](https://www.framer.com/)
+- https://github.com/everestpipkin/tools-list
 
 ## Brainstorming Notes
 During our early July meeting we started discussing the desire to create an experience for more novice developers to learn new skills through a fun, collaborative experience. 
