@@ -1,5 +1,5 @@
 # Escape the Code
-Welcome to the repo for the 202 Hackathon project `Escape the Code`!
+Welcome to the repo for the 2020 Hackathon project `Escape the Code`!
 
 ## Team
 | Avatar | Name | 
