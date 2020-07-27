@@ -5,10 +5,10 @@ Welcome to the repo for the 2020 Hackathon project `Escape the Code`!
 | Avatar | Name | 
 |--------|------|
 | <img src="https://avatars2.githubusercontent.com/u/1314285?s=460&u=46fd83b38323c7de99dace65d061c236105394d6&v=" width="50" height="50"> | Sarah Guthals | 
-|  | Jenn Jinhong |
+| <img src="https://avatars1.githubusercontent.com/u/3375924?s=460&u=4409ff691aa703bb29a5c5aac198ec22c40c48be&v=4" width="50" height="50"> | Jenn Jinhong |
 | <img src="https://raw.githubusercontent.com/cassieview/bio/master/cassieb.png" width="50" height="50"> | Cassie Breviu |
-|  | Morgan Mitchell |
-|  | Jayme Singleton |
+| <img src="https://avatars0.githubusercontent.com/u/34456831?s=460&u=3fc28d28f1e9060fb8d843d24f84f4df6ccb17b7&v=4" width="50" height="50"> | Morgan Mitchell |
+| <img src="https://avatars0.githubusercontent.com/u/8364831?s=460&v=4" width="50" height="50"> | Jayme Singleton |
 | <img src="https://avatars3.githubusercontent.com/u/110683?s=460&u=a5de839b748ea566d8c1bd795bd0ea32edfc691c&v=4" width="50" height="50"> | Christina Warren |
 
 ## Three Sub-Teams
