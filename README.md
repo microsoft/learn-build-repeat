@@ -17,16 +17,33 @@ Welcome to the repo for the 2020 Hackathon project `Escape the Code`!
 - What assets we need in the video
 - What we want to convey
 
+Team:
+- **Christina Warren**
+- Adria Martin
+
 ### The "Pretty" Prototype
 - Using Framer
 - Clickabale, but not functional
 - Used mostly for the video
+
+Team:
+- Cassie Breviu
+- **Jenn Jinhong**
+- Skyler Hartle
+- Christina Warren
+- Em Lazer-Walker
+- Adria Martin
 
 ### The "Functional" Prototype
 - Unity
 - Something people can actually play
 - Not super pretty
 - Kind of functional (can be magical)
+
+Team:
+- **Sarah Guthals**
+- Cassie Breviu
+- Em Lazer-Walker
 
 ## Project Outline
 ### Ultimate Goal (likely out of scope for hackathon, but important for the narrative)
