@@ -9,6 +9,7 @@ Welcome to the repo for the 202 Hackathon project `Escape the Code`!
 | <img src="https://raw.githubusercontent.com/cassieview/bio/master/cassieb.png" width="50" height="50"> | Cassie Breviu |
 |  | Morgan Mitchell |
 |  | Jayme Singleton |
+| <img src="https://avatars3.githubusercontent.com/u/110683?s=460&u=a5de839b748ea566d8c1bd795bd0ea32edfc691c&v=4" width="50" height="50"> | Christina Warren |
 
 ## Three Sub-Teams
 ### The Video
