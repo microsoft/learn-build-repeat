@@ -48,6 +48,7 @@ There are many aspects to what this product would ultimately be:
 - The [walkthrough demo built with Framer](https://aka.ms/Hack2020/Taco_Walkthrough_Demo)
 - The [Unity Project (zipped)]()
 - The [Video](https://escapethecode.blob.core.windows.net/files/Hackathon.mp4)
+- The [Slides](https://escapethecode.blob.core.windows.net/files/Learn_Build_Repeat-Taco_Experience.pptx)
 
 # Hackathon 2020
 
