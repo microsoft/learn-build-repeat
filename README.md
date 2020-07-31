@@ -3,6 +3,14 @@ Welcome to the repo for the 2020 Hackathon project `Learn, Build, Repeat: The Ta
 
 ![team pic](https://user-images.githubusercontent.com/1314285/89007820-559a0d80-d2be-11ea-9c4a-40e0e8f1561e.png)
 
+## Resources
+
+- The [walkthrough demo built with Framer](https://aka.ms/Hack2020/Taco_Walkthrough_Demo)
+- The [playable Unity game](https://escapethecode.z22.web.core.windows.net/)
+- The [Unity Project (zipped)](https://escapethecode.blob.core.windows.net/files/TacoBuilder.zip)
+- The [Video](https://escapethecode.blob.core.windows.net/files/Hackathon.mp4)
+- The [Slides](https://escapethecode.blob.core.windows.net/files/Learn_Build_Repeat-Taco_Experience.pptx)
+
 ## Description
 
 We believe that the one piece that is missing from Microsoft's skilling initiative is a collaborative place for customers to practice what they are learning on Learn and Learn TV and through our events. That's why we created Learn, Build, Repeat: The Taco Experience. The Taco Experience is really just one example of a game narrative that we're using to demonstrate our vision. 
@@ -42,14 +50,6 @@ There are many aspects to what this product would ultimately be:
 | <img src="https://avatars0.githubusercontent.com/u/821238?s=460&u=5b20cabc860ffbbc31cb49ec0dfe10df0a7909e5&v=4" width="50" height="50"> | Em Walker |
 | <img src="https://avatars1.githubusercontent.com/u/67708276?s=460&v=4" width="50" height="50"> | Skyler Hartle |
 | <img src="https://avatars1.githubusercontent.com/u/67708276?s=460&v=4" width="50" height="50"> | Adria Martin |
-
-## Resources
-
-- The [walkthrough demo built with Framer](https://aka.ms/Hack2020/Taco_Walkthrough_Demo)
-- The [playable Unity game](https://escapethecode.z22.web.core.windows.net/)
-- The [Unity Project (zipped)](https://escapethecode.blob.core.windows.net/files/TacoBuilder.zip)
-- The [Video](https://escapethecode.blob.core.windows.net/files/Hackathon.mp4)
-- The [Slides](https://escapethecode.blob.core.windows.net/files/Learn_Build_Repeat-Taco_Experience.pptx)
 
 # Hackathon 2020
 
