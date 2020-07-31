@@ -1,7 +1,36 @@
-# Escape the Code
-Welcome to the repo for the 2020 Hackathon project `Escape the Code`!
+# Learn, Build, Repeat
+Welcome to the repo for the 2020 Hackathon project `Learn, Build, Repeat: The Taco Experience`!
+
+## Description
+
+We believe that the one piece that is missing from Microsoft's skilling initiative is a collaborative place for customers to practice what they are learning on Learn and Learn TV and through our events. That's why we created Learn, Build, Repeat: The Taco Experience. The Taco Experience is really just one example of a game narrative that we're using to demonstrate our vision. 
+
+Imagine an e-sport-like event where customers join teams from around the world to collaboratively write code in their browsers to solve problems. They can choose the language that they are learning or most comfortable in, and their individual level. Teams will then be given a set of challenges to solve - each person solving their own challenge - that will be compiled together to reach the ultimate goal (in this example: to build tacos). 
+
+To prepare for this event, customers will complete Learn modules and watch Learn TV segments with experts explaining the technical aspects and approaches to solving problems. 
+
+During the event, a Microsoft host will engage with customers, providing feedback, all through a live-streamed experience so others can watch and learn too. 
+
+After the event, customers can tune in to live streams where the Microsoft host will go over some of the techniques used and what the best technique of the day was. 
+
+The goal is to give customers a place to practice what they are learning, learn from others, and become comfortable with failing in the pursuit of knowledge - Let's get some growth mindset going!
+
+## Inspiration
+Our team consists of career changers, near-tech professionals, and folks who care about education. Our goal was to leverage what we have collectively done in the past, including research in effective ways to teach and learn computer science concepts, to fill a gap in the customers journey within Microsoft's skilling initiatives. We wanted to create an experience that brought the customer WITH us, not just provided something TO them.
+
+## The Ultimate Goal
+
+There are many aspects to what this product would ultimately be:
+1. Learn modules that support the kinds of challenges presented in the game. A lot of existing modules will be leveraged here.
+2. Learn TV segments to prep for specific events. A lot of existing expertise shared on Learn TV will be leveraged here.
+3. A 2D, in-browser gaming experience where customers are presented with random challenges and can write code in a .NET Interactive interface. This gaming experience would be used for individual challenges as well as a multi-player game where each person connects to one part of the "room" and solves their challenges, but their solutions are sent up to a 3D game.
+4. A 3D MR game that is live streamed where a Microsoft Host walks around and "visits" various players, gives tips, and demonstrates the fun graphics of the solutions being written. 
+5. A series of live streams afterwards to discuss what went well and what resources could help folks learn about what the players were able to accomplish.
 
 ## Team
+
+<img src="https://escapethecode.blob.core.windows.net/files/team-picture.gif">
+
 | Avatar | Name | 
 |--------|------|
 | <img src="https://avatars2.githubusercontent.com/u/1314285?s=460&u=46fd83b38323c7de99dace65d061c236105394d6&v=" width="50" height="50"> | Sarah Guthals | 
@@ -10,6 +39,17 @@ Welcome to the repo for the 2020 Hackathon project `Escape the Code`!
 | <img src="https://avatars0.githubusercontent.com/u/34456831?s=460&u=3fc28d28f1e9060fb8d843d24f84f4df6ccb17b7&v=4" width="50" height="50"> | Morgan Mitchell |
 | <img src="https://avatars0.githubusercontent.com/u/8364831?s=460&v=4" width="50" height="50"> | Jayme Singleton |
 | <img src="https://avatars3.githubusercontent.com/u/110683?s=460&u=a5de839b748ea566d8c1bd795bd0ea32edfc691c&v=4" width="50" height="50"> | Christina Warren |
+| <img src="https://avatars0.githubusercontent.com/u/821238?s=460&u=5b20cabc860ffbbc31cb49ec0dfe10df0a7909e5&v=4" width="50" height="50"> | Em Walker |
+| <img src="https://avatars1.githubusercontent.com/u/67708276?s=460&v=4" width="50" height="50"> | Skyler Hartle |
+| <img src="https://avatars1.githubusercontent.com/u/67708276?s=460&v=4" width="50" height="50"> | Adria Martin |
+
+## Resources
+
+- The [walkthrough demo built with Framer](https://aka.ms/Hack2020/Taco_Walkthrough_Demo)
+- The [Unity Project (zipped)]()
+- The [Video](https://escapethecode.blob.core.windows.net/files/Hackathon.mp4)
+
+# Hackathon 2020
 
 ## Three Sub-Teams
 ### The Video
@@ -45,7 +85,7 @@ Team:
 - Cassie Breviu
 - Em Lazer-Walker
 
-## Project Outline
+## Notes
 ### Ultimate Goal (likely out of scope for hackathon, but important for the narrative)
 The goal here is to create an end to end experience that starts and ends in Learn. You could imagine that you aren't allowed to sign up for an event unless you have completed 
 certain Learn modules or done enough practice or something (with scaffolding and easy-entry ones of course)
