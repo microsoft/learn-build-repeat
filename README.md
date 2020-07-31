@@ -1,6 +1,8 @@
 # Learn, Build, Repeat
 Welcome to the repo for the 2020 Hackathon project `Learn, Build, Repeat: The Taco Experience`!
 
+![team pic](https://user-images.githubusercontent.com/1314285/89007820-559a0d80-d2be-11ea-9c4a-40e0e8f1561e.png)
+
 ## Description
 
 We believe that the one piece that is missing from Microsoft's skilling initiative is a collaborative place for customers to practice what they are learning on Learn and Learn TV and through our events. That's why we created Learn, Build, Repeat: The Taco Experience. The Taco Experience is really just one example of a game narrative that we're using to demonstrate our vision. 
@@ -28,8 +30,6 @@ There are many aspects to what this product would ultimately be:
 5. A series of live streams afterwards to discuss what went well and what resources could help folks learn about what the players were able to accomplish.
 
 ## Team
-
-<img src="https://escapethecode.blob.core.windows.net/files/team-picture.gif">
 
 | Avatar | Name | 
 |--------|------|
