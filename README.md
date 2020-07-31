@@ -58,8 +58,8 @@ There are many aspects to what this product would ultimately be:
 - What we want to convey
 
 Team:
-- **Christina Warren**
-- Adria Martin
+- Christina Warren
+- **Adria Martin**
 
 ### The "Pretty" Prototype
 - Using Framer
